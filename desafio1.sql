@@ -122,7 +122,7 @@ VALUES
   (6,"Without My Love",111),
   (6,"Walking And Game",123),
   (6,"Young And Father",197),
-  (7,"Finding My Traditions",176),
+  (7,"Finding My Traditions",179),
   (7,"Walking And Man",229),
   (7,"Hard And Time",135),
   (7,"Honey,I’m A Lone Wolf",150),
@@ -139,6 +139,7 @@ VALUES
   (10,"Wouldn’t it Be Nice",213),
   (10,"Baby",136),
   (10,"You Make Me Feel So..",83);
+--   
   
      INSERT INTO SpotifyClone.historico_reproducao(usuario_id ,cancao_id, data_reproducao)
 VALUES
